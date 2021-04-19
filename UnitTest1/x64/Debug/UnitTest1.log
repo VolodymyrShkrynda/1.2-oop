@@ -1,0 +1,5 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\source\repos\Lab1_2\Lab1_2\Account.cpp(128,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\Admin\source\repos\Lab1_2\Lab1_2\Account.cpp(143): warning C4172: возвращение адреса локальной или временной переменной : s
+     Создается библиотека C:\Users\Admin\source\repos\Lab1_2\x64\Debug\UnitTest1.lib и объект C:\Users\Admin\source\repos\Lab1_2\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\source\repos\Lab1_2\x64\Debug\UnitTest1.dll

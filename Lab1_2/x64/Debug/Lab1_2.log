@@ -1,0 +1,7 @@
+﻿  Account.cpp
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_2-master\Lab1_2\Account.cpp(128,10): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Source.cpp
+  Создание кода...
+C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_2-master\Lab1_2\Account.cpp(143): warning C4172: возвращение адреса локальной или временной переменной : s
+  LINK : не найден или не выполнена сборка C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_2-master\x64\Debug\Lab1_2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Lab1_2.vcxproj -> C:\Users\Вова\OneDrive\Рабочий стол\ООП\lab1_2-master\x64\Debug\Lab1_2.exe
